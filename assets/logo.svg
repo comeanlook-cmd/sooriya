@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop stop-color="#087fbd"/><stop offset="1" stop-color="#22b8cf"/></linearGradient>
+  </defs>
+  <path d="M52 23c28 5 42 19 48 39-13-7-26-8-39-4-12 4-22 13-29 26-9-19-4-42 20-61Z" fill="url(#g)"/>
+  <path d="M45 57c15 1 29 8 40 21-18 4-34 0-48-12" fill="none" stroke="#123f6b" stroke-width="9" stroke-linecap="round"/>
+  <path d="M76 17v31" stroke="#123f6b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M76 17c0-10 12-13 18-5l8 10" fill="none" stroke="#123f6b" stroke-width="7" stroke-linecap="round"/>
+  <text x="125" y="56" font-family="Arial, sans-serif" font-size="35" font-weight="800" fill="#123f6b" letter-spacing="2">SOORI</text>
+  <text x="126" y="88" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#123f6b" letter-spacing="6">WASHING</text>
+  <text x="127" y="108" font-family="Arial, sans-serif" font-size="10" fill="#087fbd" letter-spacing="3">CLEAN CLOTHES • FRESH LIFE</text>
+</svg>
