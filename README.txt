@@ -2,8 +2,7 @@ SOORI WASHING — VERSION 2 WEBSITE
 =================================
 
 Location: Kadawatha, Sri Lanka
-Phone / WhatsApp: +94 777400300
-
+Phone / WhatsApp: +94 740647167
 VERSION 2 FEATURES
 - Modern responsive design
 - English / Sinhala toggle on pages
