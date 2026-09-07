@@ -3,7 +3,7 @@ const menu=document.querySelector('.menu'), links=document.querySelector('.navli
 if(menu) menu.addEventListener('click',()=>links.classList.toggle('open'));
 
 function sendWhatsApp(message){
-  window.open(`https://wa.me/94777400300?text=${encodeURIComponent(message)}`,'_blank');
+  window.open(`https://wa.me/94740647167?text=${encodeURIComponent(message)}`,'_blank');
 }
 document.querySelectorAll('form[data-whatsapp]').forEach(form=>{
   form.addEventListener('submit',e=>{
